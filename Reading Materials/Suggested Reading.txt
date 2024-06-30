@@ -1,0 +1,6 @@
+Course Textbook
+
+Python for Data Analysis by Wes McKinney (O’Reilly). Copyright 2017 Wes McKinney, 978-1-491-95766-0.
+https://wesmckinney.com/pages/book.html
+
+50 years of Data Science, David Donoho
